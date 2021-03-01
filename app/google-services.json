@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047316316240",
+    "firebase_url": "https://grabarmapas-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "grabarmapas",
+    "storage_bucket": "grabarmapas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047316316240:android:ad78d92aec3ad7f919d155",
+        "android_client_info": {
+          "package_name": "com.pass.grabarmapas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047316316240-olusqfpq1bhbpmco05coovs56rdl728t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq38EO8f8OFCdTa4P-WzuG3QJ2I7uTv5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047316316240-olusqfpq1bhbpmco05coovs56rdl728t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
